@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [social-links-profile solution](https://github.com/jachvictor/social-links-profile)
+- Live Site URL: [social-links-profile](https://social-links-profile-six-flame.vercel.app)
 
 ## My process
 
